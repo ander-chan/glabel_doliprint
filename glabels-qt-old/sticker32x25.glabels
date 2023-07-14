@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Glabels-document xmlns="http://glabels.org/xmlns/3.0/">
+  <Template brand="32x25x3" part="32x25x3" size="Other" width="103mm" height="28mm" description="">
+    <Label-rectangle id="0" width="32mm" height="25mm" round="2mm" x_waste="1.1mm" y_waste="0.1mm">
+      <Markup-margin size="0mm"/>
+      <Layout nx="3" ny="1" x0="3mm" y0="0.1mm" dx="34.2mm" dy="25.2mm"/>
+    </Label-rectangle>
+  </Template>
+  <Objects id="0" rotate="False">
+    <Object-text x="3.60888mm" y="0.671961mm" w="22.8495mm" h="5.64444mm" justify="Left" valign="Top" auto_shrink="False" a0="1" a1="0" a2="0" a3="1" a4="0" a5="0">
+      <Span color="0x000000ff" font_family="Sans" font_size="12" font_weight="Regular" font_italic="False" line_spacing="1"/>
+    </Object-text>
+    <Object-text x="10.4656mm" y="20.085mm" w="8.9372mm" h="4.25669mm" justify="Left" valign="Top" auto_shrink="False" a0="1" a1="0" a2="0" a3="1" a4="0" a5="0">
+      <Span color="0x000000ff" font_family="Sans" font_size="12" font_weight="Regular" font_italic="False" line_spacing="1"/>
+    </Object-text>
+    <Object-text x="2.5842mm" y="2.67609mm" w="24.1058mm" h="5.07214mm" justify="Center" valign="Top" auto_shrink="False" a0="1" a1="0" a2="0" a3="1" a4="0" a5="0">
+      <Span color="0x000000ff" font_family="Sans" font_size="12" font_weight="Regular" font_italic="False" line_spacing="1">
+        <Field name="label"/>
+      </Span>
+    </Object-text>
+    <Object-barcode x="2.5mm" y="9.97364mm" w="21mm" h="10.2004mm" backend="built-in" style="Code39" text="True" checksum="False" color="0x000000ff" field="ref" format="3" a0="1" a1="0" a2="0" a3="1" a4="0" a5="0"/>
+  </Objects>
+  <Merge type="Text/Comma/Line1Keys" src="/home/ander/qtproyects/build-GlabelConnector-Desktop-Debug/product.csv"/>
+  <Data/>
+</Glabels-document>

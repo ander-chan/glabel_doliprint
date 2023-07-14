@@ -1,0 +1,116 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/AboutDialog.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/AboutDialog.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/BarcodeMenu.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/BarcodeMenu.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/BarcodeMenuButton.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/BarcodeMenuButton.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/BarcodeMenuItem.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/BarcodeMenuItem.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/ColorButton.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/ColorButton.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/ColorHistory.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/ColorHistory.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/ColorPaletteDialog.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/ColorPaletteDialog.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/ColorPaletteItem.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/ColorPaletteItem.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/ColorSwatch.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/ColorSwatch.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/Cursors.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/Cursors.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/EditVariableDialog.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/EditVariableDialog.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/FieldButton.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/FieldButton.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/File.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/File.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/Help.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/Help.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/Icons.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/Icons.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/LabelEditor.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/LabelEditor.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/MainWindow.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/MainWindow.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/MergeView.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/MergeView.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/MiniPreviewPixmap.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/MiniPreviewPixmap.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/NotebookUtil.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/NotebookUtil.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/ObjectEditor.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/ObjectEditor.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/PreferencesDialog.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/PreferencesDialog.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/Preview.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/Preview.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/PreviewOverlayItem.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/PreviewOverlayItem.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/PrintView.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/PrintView.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/PropertiesView.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/PropertiesView.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/ReportBugDialog.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/ReportBugDialog.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/RollTemplatePath.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/RollTemplatePath.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/SelectProductDialog.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/SelectProductDialog.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/SimplePreview.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/SimplePreview.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/StartupView.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/StartupView.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/TemplateDesigner.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/TemplateDesigner.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/TemplatePicker.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/TemplatePicker.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/TemplatePickerItem.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/TemplatePickerItem.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/UndoRedoModel.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/UndoRedoModel.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/VariablesView.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/VariablesView.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/glabels/main.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/main.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_AboutDialog.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_AboutDialog.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_BarcodeMenu.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_BarcodeMenu.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_BarcodeMenuButton.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_BarcodeMenuButton.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_BarcodeMenuItem.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_BarcodeMenuItem.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_ColorButton.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_ColorButton.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_ColorHistory.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_ColorHistory.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_ColorPaletteDialog.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_ColorPaletteDialog.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_ColorPaletteItem.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_ColorPaletteItem.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_EditVariableDialog.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_EditVariableDialog.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_FieldButton.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_FieldButton.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_File.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_File.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_LabelEditor.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_LabelEditor.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_MainWindow.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_MainWindow.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_MergeView.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_MergeView.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_ObjectEditor.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_ObjectEditor.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_PreferencesDialog.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_PreferencesDialog.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_Preview.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_Preview.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_PrintView.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_PrintView.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_PropertiesView.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_PropertiesView.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_ReportBugDialog.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_ReportBugDialog.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_SelectProductDialog.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_SelectProductDialog.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_SimplePreview.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_SimplePreview.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_StartupView.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_StartupView.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_TemplateDesigner.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_TemplateDesigner.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_TemplatePicker.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_TemplatePicker.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_UndoRedoModel.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_UndoRedoModel.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/moc_VariablesView.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/moc_VariablesView.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/qrc_cursors.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/qrc_cursors.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/qrc_icons.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/qrc_icons.cpp.o"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/qrc_images.cpp" "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glabels/CMakeFiles/glabels-qt.dir/qrc_images.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "QT_CORE_LIB"
+  "QT_GUI_LIB"
+  "QT_NO_DEBUG"
+  "QT_PRINTSUPPORT_LIB"
+  "QT_SVG_LIB"
+  "QT_WIDGETS_LIB"
+  "QT_XML_LIB"
+  )
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../glabels"
+  "glabels"
+  "../model/.."
+  "model/.."
+  "../backends/barcode/.."
+  "../glbarcode/.."
+  "/usr/include/x86_64-linux-gnu/qt5"
+  "/usr/include/x86_64-linux-gnu/qt5/QtWidgets"
+  "/usr/include/x86_64-linux-gnu/qt5/QtGui"
+  "/usr/include/x86_64-linux-gnu/qt5/QtCore"
+  "/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++"
+  "../backends/merge/.."
+  "/usr/include/x86_64-linux-gnu/qt5/QtPrintSupport"
+  "/usr/include/x86_64-linux-gnu/qt5/QtXml"
+  "/usr/include/x86_64-linux-gnu/qt5/QtSvg"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/model/CMakeFiles/Model.dir/DependInfo.cmake"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/backends/barcode/CMakeFiles/Barcode.dir/DependInfo.cmake"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/glbarcode/CMakeFiles/glbarcode.dir/DependInfo.cmake"
+  "/home/ander/Descargas/glabels-qt-glabels-3.99-master564/build/backends/merge/CMakeFiles/Merge.dir/DependInfo.cmake"
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
