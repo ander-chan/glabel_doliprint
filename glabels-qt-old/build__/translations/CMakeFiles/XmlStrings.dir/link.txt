@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/XmlStrings.dir/XmlStrings.cpp.o  -o XmlStrings /usr/lib/x86_64-linux-gnu/libQt5Xml.so.5.12.8 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.12.8 

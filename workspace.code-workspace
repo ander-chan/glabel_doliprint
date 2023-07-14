@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"bitset": "cpp",
+			"chrono": "cpp",
+			"algorithm": "cpp",
+			"optional": "cpp",
+			"system_error": "cpp"
+		}
+	}
+}

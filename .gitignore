@@ -71,6 +71,7 @@ Thumbs.db
 *.dll
 *.exe
 /bin
-/qt-glabels
+/glabels-qt
+/.vscode
 *.zip
 
