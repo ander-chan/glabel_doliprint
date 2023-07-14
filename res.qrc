@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>GlabelConnector_es_419.qm</file>
+        <file>sticker32x25.glabels</file>
+        <file>img/sample.png</file>
+        <file>img/glabels-icon.png</file>
+        <file>img/glabels.png</file>
+        <file>img/dolly-solid.png</file>
+        <file>img/file-invoice-solid.png</file>
+    </qresource>
+</RCC>

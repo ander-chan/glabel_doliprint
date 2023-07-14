@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Glabels-document version="4.0">
+  <Template description="" width="291.969pt" size="Other" brand="32x25x3" part="32x25x3" height="79.3701pt">
+    <Label-rectangle x_waste="3.11811pt" id="0" round="5.66929pt" width="90.7087pt" y_waste="0.283465pt" height="70.8661pt">
+      <Markup-margin size="0pt"/>
+      <Layout ny="1" y0="0.283465pt" dy="71.4331pt" nx="3" x0="8.50394pt" dx="96.9449pt"/>
+    </Label-rectangle>
+  </Template>
+  <Objects id="0" rotate="false">
+    <Object-text font_size="4" shadow_y="0pt" color="0xff" shadow="false" auto_shrink="false" a0="1" font_underline="false" a4="0" x="10.2299pt" w="64.7701pt" valign="top" shadow_x="0pt" shadow_opacity="1" a2="0" lock_aspect_ratio="false" line_spacing="1" a1="0" a5="0" align="hcenter" h="16pt" wrap="word" a3="1" font_family="Sans" y="1.90477pt" font_weight="normal" shadow_color="0x0" font_italic="false">
+      <p>${label}</p>
+    </Object-text>
+    <Object-barcode checksum="true" w="38.2618pt" a4="0" text="false" x="24.3207pt" lock_aspect_ratio="false" a2="0" a5="0" a0="1" data="${ref}" a3="1" backend="qrencode" y="18.7267pt" style="qrcode" a1="0" h="38.2618pt" color="0xff"/>
+    <Object-text font_size="4" shadow_y="0pt" color="0xff" shadow="false" auto_shrink="false" a0="1" font_underline="false" a4="0" x="29.6662pt" w="25.3338pt" valign="top" shadow_x="0pt" shadow_opacity="1" a2="0" lock_aspect_ratio="false" line_spacing="1" a1="0" a5="0" align="hcenter" h="12.0662pt" wrap="word" a3="1" font_family="Sans" y="56.9338pt" font_weight="normal" shadow_color="0x0" font_italic="false">
+      <p>${ref}</p>
+    </Object-text>
+  </Objects>
+  <Merge type="Text/Comma/Line1Keys" src="merge.csv"/>
+  <Data/>
+</Glabels-document>

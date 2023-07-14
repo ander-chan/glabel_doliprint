@@ -1,0 +1,9 @@
+<!DOCTYPE Glabels-templates>
+<Glabels-templates>
+ <Template size="other" width="291.96pt" brand="Other" height="79.37pt" description="Product label" part="32x25x3">
+  <Label-rectangle width="90.7pt" height="70.88pt" y_waste="0.28pt" round="5.66pt" x_waste="3.11pt" id="0">
+   <Markup-margin y_size="0.28pt" x_size="8.5pt"/>
+   <Layout y0="0.28pt" nx="3" dx="96.92pt" ny="1" dy="71.44pt" x0="3.11pt"/>
+  </Label-rectangle>
+ </Template>
+</Glabels-templates>
